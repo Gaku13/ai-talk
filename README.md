@@ -1,4 +1,4 @@
-# Double O Capital Ltd. corporate site
+# AI TALK site
 Pug + Stylus for Nuxt.js
 
 ## Build Setup

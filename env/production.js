@@ -1,3 +1,3 @@
 module.exports = {
-  BASE_URL: '/doubleocapital/'
+  BASE_URL: '/ai-talk/'
 }
