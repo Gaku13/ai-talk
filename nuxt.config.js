@@ -41,11 +41,11 @@ module.exports = {
       }, {
         hid: 'og:site_name',
         property: 'og:site_name',
-        content: 'Double O Capital Ltd.'
+        content: 'おしゃべりAI'
       }, {
         hid: 'og:url',
         property: 'og:url',
-        content: 'https://double-o.jp'
+        content: ''
       }, {
         hid: 'og:title',
         property: 'og:title',
@@ -57,7 +57,7 @@ module.exports = {
       }, {
         hid: 'og:image',
         property: 'og:image',
-        content: 'https://gaku13.github.io/doubleocapital/og-image.png'
+        content: 'https://gaku13.github.io/ai-talk/og-image.png'
       }, {
         name: 'application-name',
         content: 'おしゃべりAI'
